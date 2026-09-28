@@ -1,0 +1,12 @@
+{
+  "outputDirectory": "build/web",
+  "rewrites": [
+    { "source": "/", "destination": "/index.html" },
+    { "source": "/onboarding", "destination": "/index.html" },
+    { "source": "/dashboard", "destination": "/index.html" },
+    { "source": "/timeline", "destination": "/index.html" },
+    { "source": "/collision", "destination": "/index.html" },
+    { "source": "/simulator", "destination": "/index.html" },
+    { "source": "/subscriptions", "destination": "/index.html" }
+  ]
+}

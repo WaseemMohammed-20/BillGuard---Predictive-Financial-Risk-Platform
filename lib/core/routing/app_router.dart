@@ -10,8 +10,11 @@ import '../../features/timeline/presentation/timeline_screen.dart';
 
 class AppRouter {
   static final router = GoRouter(
-    initialLocation: '/onboarding',
     routes: [
+      GoRoute(
+        path: '/',
+        redirect: (context, state) => '/dashboard',
+      ),
       GoRoute(
         path: '/onboarding',
         builder: (context, state) => const OnboardingScreen(),
