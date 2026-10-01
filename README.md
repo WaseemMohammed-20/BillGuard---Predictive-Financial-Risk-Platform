@@ -112,6 +112,3 @@ BillGuard uses a premium light fintech direction: a warm neutral background, whi
 
 BillGuard is a portfolio prototype using mock financial data. It does not connect to financial institutions and is not a financial advisory service. Projections and insights are illustrative and should not be treated as financial advice.
 
-## Author
-
-Author information is not specified in this repository’s project metadata.
